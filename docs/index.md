@@ -3,3 +3,13 @@ sidebar_position: 1
 ---
 
 # Hello World!
+
+Je suis Frontend Developer, bien que je sache coder des applications de A à Z et guider les différentes étapes d’un projet — du design à la livraison.
+
+Mon approche est structurée, orientée produit, et toujours centrée sur l’unification du besoin business et de la meilleure UX.
+
+J’attache autant d’importance à la lisibilité du code qu’à la structuration des composants au sein d’un design system.
+
+J’aime travailler sur des stacks simples qui ont fait leurs preuves, sans chercher la dernière hype constamment (JavaScript fatigue…). Comme je dis souvent : “À chaque tâche le bon outil”.
+
+Bref, de la UX à la DX, j’aime l’efficience par la simplicité.
