@@ -69,11 +69,16 @@ const config: Config = {
         //   label: "Tutorial",
         // },
         // { to: "/blog", label: "Blog", position: "left" },
-        // {
-        //   href: "https://github.com/facebook/docusaurus",
-        //   label: "GitHub",
-        //   position: "right",
-        // },
+        {
+          href: "https://github.com/alexisoney",
+          label: "GitHub",
+          position: "right",
+        },
+        {
+          href: "https://www.linkedin.com/in/alexis-oney/",
+          label: "LinkedIn",
+          position: "right",
+        },
       ],
     },
     footer: {
