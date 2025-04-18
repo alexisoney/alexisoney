@@ -57,10 +57,10 @@ const config: Config = {
     },
     navbar: {
       title: "Alexis Oney",
-      // logo: {
-      //   alt: "My Site Logo",
-      //   src: "img/logo.svg",
-      // },
+      logo: {
+        alt: "Alexis Oney",
+        src: "img/logo.png",
+      },
       items: [
         // {
         //   type: "docSidebar",
